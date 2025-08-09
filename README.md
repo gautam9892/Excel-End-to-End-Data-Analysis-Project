@@ -1,5 +1,6 @@
 # 📊 End-to-End Data Analysis Project in Excel
 
+
 ## 📌 Project Overview
 This project demonstrates a complete data analysis workflow using Microsoft Excel — from raw dataset to an interactive business dashboard.
 It leverages VBA Macros for automation, making the dashboard dynamic and user-friendly.
@@ -38,12 +39,12 @@ It leverages VBA Macros for automation, making the dashboard dynamic and user-fr
 - Highlighted seasonal patterns in data  
 - Automated updates reduced manual effort by **over 80%**
 
-🚀 How to Use
+## 🚀 How to Use
 - Download the .xlsm file from this repository.
 - Enable Macros in Excel.
 - Click the Refresh Dashboard button to update visuals.
 
-📬 Connect 
+## 📬 Connect 
 If you have ideas to improve this project or want to collaborate, feel free to reach out!
 📧 Email: *[gautamkumawat141@gmail.com]*
 🔗 LinkedIn: *[www.linkedin.com/in/gautam9892]*
