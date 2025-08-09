@@ -44,7 +44,7 @@ It leverages VBA Macros for automation, making the dashboard dynamic and user-fr
 - Enable Macros in Excel.
 - Click the Refresh Dashboard button to update visuals.
 
-## 📬 Connect 
+## 🔗 Connect 
 If you have ideas to improve this project or want to collaborate, feel free to reach out!
-📧 Email: *[gautamkumawat141@gmail.com]*
-🔗 LinkedIn: *[www.linkedin.com/in/gautam9892]*
+📧 Email: [gautamkumawat141@gmail.com](mailto:gautamkumawat141@gmail.com)  
+🔗 LinkedIn: [www.linkedin.com/in/gautam9892](https://www.linkedin.com/in/gautam9892)  
