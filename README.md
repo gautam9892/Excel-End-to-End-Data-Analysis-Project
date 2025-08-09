@@ -46,5 +46,7 @@ It leverages VBA Macros for automation, making the dashboard dynamic and user-fr
 
 ## 🔗 Connect 
 If you have ideas to improve this project or want to collaborate, feel free to reach out!
+
 📧 Email: [gautamkumawat141@gmail.com](mailto:gautamkumawat141@gmail.com)  
+
 🔗 LinkedIn: [www.linkedin.com/in/gautam9892](https://www.linkedin.com/in/gautam9892)  
